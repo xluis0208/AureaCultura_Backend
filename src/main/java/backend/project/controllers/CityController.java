@@ -1,5 +1,5 @@
 package backend.project.controllers;
-// estos son los imports
+
 import backend.project.entities.City;
 import backend.project.services.CityService;
 import org.springframework.beans.factory.annotation.Autowired;
