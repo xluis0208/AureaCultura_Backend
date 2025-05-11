@@ -3,7 +3,7 @@ package backend.project.repositories;
 import backend.project.entities.Promoter;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-//Re updated Promoter
+//fixed promoter
 
 import java.util.List;
 
