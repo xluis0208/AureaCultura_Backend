@@ -1,6 +1,6 @@
 package backend.project.repositories;
 
-//Comment Citu repository
+//updated
 
 import backend.project.entities.City;
 import org.springframework.data.jpa.repository.JpaRepository;
