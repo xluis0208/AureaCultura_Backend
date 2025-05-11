@@ -1,5 +1,5 @@
 package backend.project.controllers;
-// estos son los imports
+
 import backend.project.entities.Authority;
 import backend.project.services.AuthorityService;
 import org.springframework.beans.factory.annotation.Autowired;
