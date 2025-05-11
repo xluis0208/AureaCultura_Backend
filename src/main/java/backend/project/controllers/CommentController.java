@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-//mejora de opcion
 
 @RestController
 @RequestMapping("/api/comments")
