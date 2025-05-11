@@ -3,8 +3,7 @@ package backend.project.dtos;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
-//DTO comment Edited
+ 
 
 @Data
 @AllArgsConstructor
