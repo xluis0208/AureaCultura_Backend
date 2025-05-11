@@ -1,5 +1,5 @@
 package backend.project.repositories;
-// cambios en este documento
+
 import backend.project.entities.Promoter;
 import backend.project.entities.TicketType;
 import org.springframework.data.jpa.repository.JpaRepository;
