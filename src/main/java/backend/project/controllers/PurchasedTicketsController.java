@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.*;
 import java.time.LocalDateTime;
 import java.util.List;
 
-//administration Purchased Tickets
 
 @RestController
 @RequestMapping("/api/purchased-tickets")
