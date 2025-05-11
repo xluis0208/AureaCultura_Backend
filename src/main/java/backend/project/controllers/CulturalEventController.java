@@ -1,5 +1,5 @@
 package backend.project.controllers;
-// Cambios en el documento
+
 import backend.project.dtos.CulturalEventDTO;
 import backend.project.entities.*;
 import backend.project.exceptions.ResourceNotFoundException;
