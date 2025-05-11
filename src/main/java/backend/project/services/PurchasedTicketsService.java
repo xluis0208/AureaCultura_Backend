@@ -13,5 +13,4 @@ public interface PurchasedTicketsService {
     PurchasedTickets findById(Long id);
     List<PurchasedTickets> findByClient(Long clientId);
 
-    //Service edd
 }
