@@ -1,7 +1,6 @@
 package backend.project.repositories;
 
-//updated
-
+//re updated
 import backend.project.entities.City;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
