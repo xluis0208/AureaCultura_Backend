@@ -7,9 +7,8 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
-//Hola mundo
-
+ 
+//Cambios implementados
 import java.util.List;
 
 @Entity
