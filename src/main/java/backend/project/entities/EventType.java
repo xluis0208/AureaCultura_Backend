@@ -7,6 +7,8 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+//Cultural event type
+
 import java.util.List;
 
 @Entity
