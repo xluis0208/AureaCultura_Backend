@@ -7,6 +7,9 @@ WORKDIR /app
 # Copia todo el código del proyecto al contenedor
 COPY . .
 
+# Da permisos de ejecución al script mvnw
+RUN chmod +x mvnw
+
 # Construye el proyecto y omite los tests
 RUN ./mvnw clean package -DskipTests
 
@@ -14,4 +17,4 @@ RUN ./mvnw clean package -DskipTests
 EXPOSE 8080
 
 # Comando para ejecutar el .jar generado (ajusta el nombre si es distinto)
-CMD ["java", "-jar", "target/backend-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/*.jar"]
